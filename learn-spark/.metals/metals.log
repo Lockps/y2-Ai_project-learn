@@ -1,0 +1,89 @@
+2024.01.05 17:12:08 INFO  Started: Metals version 1.2.0 in folders 'D:\code\learn-machine learning\Flappy Bird\learn-spark' for client Visual Studio Code 1.85.1.
+2024.01.05 17:12:09 WARN  Build server is not auto-connectable.
+2024.01.05 17:12:09 WARN  no build tool detected in workspace 'D:\code\learn-machine learning\Flappy Bird\learn-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.01.05 17:14:41 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+2024.01.05 17:14:44 INFO  no build target found for D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt. Using presentation compiler with project's scala-library version: 3.3.1
+2024.01.05 17:14:45 INFO  time: code lens generation in 2.98s
+2024.01.05 17:17:06 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+Jan 05, 2024 5:17:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 95
+2024.01.05 17:17:37 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+2024.01.05 17:18:10 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\Hello.scala
+2024.01.05 17:18:28 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\Hello.scala
+2024.01.05 17:18:30 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\Hello.scala
+2024.01.05 17:20:14 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\src\Hello.scala
+2024.01.05 17:21:22 WARN  no build tool detected in workspace 'D:\code\learn-machine learning\Flappy Bird\learn-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.01.05 17:22:25 WARN  no build tool detected in workspace 'D:\code\learn-machine learning\Flappy Bird\learn-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.01.05 17:22:26 WARN  no build tool detected in workspace 'D:\code\learn-machine learning\Flappy Bird\learn-spark'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.01.05 17:22:41 INFO  Attempting to connect to the build server...
+2024.01.05 17:22:41 INFO  No build server found
+2024.01.05 17:22:41 INFO  time: Connected to build server in 7ms
+2024.01.05 17:22:41 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+2024.01.05 17:22:41 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\src\Hello.scala
+2024.01.05 17:22:44 WARN  Build server is not auto-connectable.
+2024.01.05 17:22:47 WARN  Build server is not auto-connectable.
+2024.01.05 17:22:47 WARN  Build server is not auto-connectable.
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.pom
+2024.01.05 17:23:24 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\src\Hello.scala
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.jar
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.jar
+Jan 05, 2024 5:25:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 434
+Jan 05, 2024 5:25:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 436
+2024.01.05 17:26:42 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\src\Hello.scala
+2024.01.05 17:27:34 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\src\Hello.scala
+Jan 05, 2024 5:30:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1011
+2024.01.05 17:30:57 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+2024.01.05 17:31:33 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+Jan 05, 2024 5:32:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1146
+2024.01.05 17:32:39 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+2024.01.05 17:32:39 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+2024.01.05 17:32:39 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+2024.01.05 17:32:40 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+2024.01.05 17:32:40 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+2024.01.05 17:32:40 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+2024.01.05 17:32:40 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+2024.01.05 17:32:41 WARN  no build target for: D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\1stscala-project\build.sbt
+2024.01.05 17:36:23 INFO  
+2024.01.05 17:36:23 INFO  
+2024.01.05 17:36:23 INFO  Template applied in D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\.\scala3
+2024.01.05 17:36:23 INFO  Template applied in D:\code\learn-machine learning\Flappy Bird\learn-spark\scala\.\1st_project
+2024.01.05 17:36:23 INFO  
+2024.01.05 17:36:23 INFO  
+2024.01.05 17:36:23 INFO  time: ran 'giter8.Giter8' in 6.43s
+2024.01.05 17:36:23 INFO  time: ran 'giter8.Giter8' in 6.27s
+2024.01.05 17:36:35 INFO  Shutting down server
+2024.01.05 17:36:35 INFO  shutting down Metals
+2024.01.05 17:36:35 INFO  Exiting server
